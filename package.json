@@ -1,7 +1,7 @@
 {
   "name": "react-banco-inter",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
   "homepage": "https://thiagonunesbatista.github.io/react-banco-inter",
   "dependencies": {
     "@styled-icons/fa-solid": "^10.0.0",
