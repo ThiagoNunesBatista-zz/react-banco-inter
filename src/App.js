@@ -1,9 +1,12 @@
 import React from 'react'
 import Routes from './routes'
+import ThemeProvider from './context/theme/ThemeProvider'
 
 const App = () => {
   return (
-    <Routes />
+    <ThemeProvider>
+      <Routes />
+    </ThemeProvider>
   )
 }
 
