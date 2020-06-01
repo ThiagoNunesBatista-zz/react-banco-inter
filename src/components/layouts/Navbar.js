@@ -19,7 +19,7 @@ const Navbar = () => {
 
 const StyledNavbar = styled.aside`
   background: ${props => props.theme.primary};
-  color: #FFF;
+  color: ${props => props.theme.color};
 `
 
 const StyledNavList = styled.ul`
