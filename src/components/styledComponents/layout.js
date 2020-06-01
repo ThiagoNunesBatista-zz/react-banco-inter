@@ -24,7 +24,13 @@ export const Button = styled.button`
 export const Paragraph = styled.p`
   margin: 0.5rem;
 `
+
 export const StickTop = styled.div`
   position: sticky;
   top: 0;
+`
+
+export const Heading = styled.h1`
+  color: ${props => props.theme.color};
+  margin: 1rem auto;
 `
