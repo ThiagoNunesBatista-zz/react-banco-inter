@@ -1,4 +1,4 @@
-# Banco Inter React
+# React Banco Inter
 
 !['Banco Inter Internet Banking Built With ReactJS'](./react-banco-inter.gif)
 
