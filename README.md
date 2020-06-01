@@ -16,6 +16,8 @@ Some extensions are really recommended for the text editor to have a better deve
 
 2. [StandardJS](https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs)
 
+3. [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
 ## How To Setup The Project
 
 1. Enter In The Desired Directory To Setup The Project.
