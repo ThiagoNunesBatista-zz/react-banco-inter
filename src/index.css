@@ -1,0 +1,43 @@
+/* External Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+/* Reset Css */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+/* CSS Variables */
+
+:root {
+  --primary-color: #FB6910;
+  --light-orange: #FBF7F4;
+  --primary-gray: #8A99B6;
+  --secondary-gray: #E5E5E5;
+  --primary-dark-gray: #526280;
+  --primary-light: #FFF;
+  --secondary-white: #F6EFE9;
+  --primary-yellow: #FFED00;
+  --primary-green: #16C968;
+  --primary-pink: #FF003D;
+}
+
+/* General Styling */
+
+body {
+  font-family: 'Lato', sans-serif;
+  /* background: var(--light-orange); */
+  /* color: var(--primary-gray); */
+  line-height: 1rem;
+}
